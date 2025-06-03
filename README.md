@@ -124,7 +124,7 @@ class SanjayNaddunuri:
 
 <hr>
 <div align="center">
-  <img src="https://github.com/sanjaynaddunuri/dustbin/blob/main/snake.svg" alt="Snake animation" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fyellowcherry.uk%2Fanimation-and-web-design%2F&psig=AOvVaw3mJQfVzaELJwgU5DdoZYIH&ust=1749017541325000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi-8p3M1I0DFQAAAAAdAAAAABAD" alt="animation" />
 </div>
 <hr>
 
