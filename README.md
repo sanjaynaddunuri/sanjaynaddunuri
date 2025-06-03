@@ -124,7 +124,7 @@ class SanjayNaddunuri:
 
 <hr>
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fyellowcherry.uk%2Fanimation-and-web-design%2F&psig=AOvVaw3mJQfVzaELJwgU5DdoZYIH&ust=1749017541325000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi-8p3M1I0DFQAAAAAdAAAAABAD" alt="animation" />
+  <img src="https://yellowcherry.uk/wp-content/uploads/2022/05/website-design-animation-scene-2023-11-27-05-26-42-utc1.gif" alt="animation" />
 </div>
 <hr>
 
