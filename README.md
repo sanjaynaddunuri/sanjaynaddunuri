@@ -5,7 +5,6 @@
 
 - 👯 I have Created python Complier [PyBook](https://github.com/sanjaynaddunuri/PYTHON-Editor)
 
-- 👨‍💻 All of my projects are available at [https://naddunuri-sanjay.lovable.app/](https://naddunuri-sanjay.lovable.app/)
 
 - 📫 How to reach me **naddunurisanjay@gmail.com**
 
