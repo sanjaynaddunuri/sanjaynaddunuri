@@ -5,12 +5,6 @@
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Computer+Science+Wizard+from+Warangal;%F0%9F%90%8D+Python+Charmer+%26+Java+Juggler;%F0%9F%A4%96+AI%2FML+Mad+Scientist;%F0%9F%9A%80+Full+Stack+Sorcerer;%E2%98%95+Coffee-to-Code+Converter;%F0%9F%A7%A0+Turning+Ideas+Into+Reality+Since+2020!" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <br>
-  <em>^ Me when my code actually works on the first try! 🎉</em>
-</div>
-
 ---
 
 ## 🤷‍♂️ Who Am I? (Good Question!)
