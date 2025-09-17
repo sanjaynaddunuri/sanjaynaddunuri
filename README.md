@@ -7,6 +7,8 @@
 </div>
 <br>
 <br>
+</div>
+  
 ##🤷‍♂️ Who Am I? (Good Question!)
 
 <img align="right" alt="Coding Cat" width="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
