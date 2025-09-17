@@ -7,7 +7,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtZmttNDJ6ejdkN2I5M3JlY2ZqZHk5amw4cGJyeWVuZjFnZ21payZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
   <br>
   <em>^ Me when my code actually works on the first try! 🎉</em>
 </div>
